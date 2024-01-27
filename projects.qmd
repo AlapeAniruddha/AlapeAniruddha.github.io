@@ -1,0 +1,20 @@
+## Machine Learning Handbook
+
+:::: columns
+
+::: {.column width="65%"}
+This website is a comprehensive resource for machine learning algorithms
+
+[Read more](https://bsc-iitm.github.io/ML_Handbook/){target="_blank" .button}
+
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Machine Learning Algorithms]()
+:::
+
+::::
