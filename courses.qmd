@@ -18,3 +18,24 @@ xyz
 :::
 
 ::::
+
+## Machine Learning Practice
+
+:::: columns
+
+::: {.column width="65%"}
+xyz
+
+[Read more](https://bsc-iitm.github.io/ML_Handbook/){target="_blank" .button}
+
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Machine Learning Algorithms]()
+:::
+
+::::
